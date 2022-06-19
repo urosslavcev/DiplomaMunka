@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StayClean</string>
+    <string name="title">StayClean</string>
+    <string name="caption">We bring beauty to you!!</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="register_user">Register User</string>
+    <string name="logout">Logout</string>
+</resources>

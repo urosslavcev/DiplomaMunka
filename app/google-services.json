@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7783438040",
+    "project_id": "stayclean-d2068",
+    "storage_bucket": "stayclean-d2068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7783438040:android:74108c7b93dee75cffe9ad",
+        "android_client_info": {
+          "package_name": "hu.mobil.stayclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7783438040-oc27r36oue5pi21816f8qk0m40e29ddt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07zzx_i6H8lfMCQza_YtoVLWK6y4GmAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7783438040-oc27r36oue5pi21816f8qk0m40e29ddt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
